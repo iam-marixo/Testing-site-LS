@@ -1,0 +1,84 @@
+body, html {
+	margin:0px;
+	font-size:1em;
+}
+
+a {
+	color:#F26525;
+}
+
+a:hover{
+	color:#B5B5B5;
+}
+
+footer {
+	background-color:#F3F3F3;
+	padding:30px 0px;
+	margin-top:50px;
+}
+
+footer a {
+	color:#00A850;
+	text-decoration:none;
+}
+
+.donate {
+	color:#FFF;
+	background-color:#FF0099;
+	border-radius:8px;
+	padding:20px 35px;
+	font-size:1.5em;
+	font-weight:700;
+	text-decoration:none;
+}
+
+.donate:hover {background-color:#FF7900;color:#FFFFFF;}
+
+button.register {
+	color:#FFF;
+	cursor:pointer;
+	background-color:#00a84f;
+	border-radius:8px;
+	border:0px;
+	padding:20px 35px;
+	font-size:1.5em;
+	font-weight:700;
+	text-decoration:none;
+}
+
+button.register:hover {background-color:#B5B5B5;color:#FFFFFF;}
+
+button.texting {
+	color:#FFF;
+	cursor:pointer;
+	background-color:#009adb;
+	border-radius:8px;
+	border:0px;
+	padding:20px 35px;
+	font-size:1.5em;
+	font-weight:700;
+	text-decoration:none;
+}
+
+button.texting:hover {background-color:#B5B5B5;color:#FFFFFF;}
+
+
+#logo {
+    display: block;
+    margin: 30px auto;
+    max-width:40%;
+}
+
+.fa {
+    background-color:#FF7900;
+    border-radius: 100%;
+    font-size: 1.5em !important;
+    margin:13px;
+    color:#FFFFFF;
+    width: 28px;
+    height:28px;
+    padding:10px;
+    text-align: center;
+}
+
+.fa:hover {background-color:#FF0099;}
